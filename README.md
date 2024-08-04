@@ -50,10 +50,3 @@ To improve the efficiency and functionality of the robot, consider the following
 
 For detailed information on the components used and the implementation process, refer to the project documentation included in this repository.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Acknowledgments
-
-- [Mention any sources, libraries, or inspirations that contributed to this project]
